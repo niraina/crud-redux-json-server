@@ -2,7 +2,7 @@
 
 npm i -g json-server (installer globalement json-server)
 
-npm install
+npm install && yarn install
 
 json-server --watch db.json --port 8080
 

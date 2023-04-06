@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "name": "roccoco",
+      "address": "Ankadifotsy",
+      "email": "rocco@yopmail.com",
+      "contact": "123456",
+      "id": 2
+    },
+    {
+      "name": "leba",
+      "address": "Ankadifotsy",
+      "email": "leba@yopmail.com",
+      "contact": "123456",
+      "id": 3
+    },
+    {
+      "name": "Prosper",
+      "address": "Tanjombato",
+      "email": "pro@yopmail.com",
+      "contact": "123456",
+      "id": 3
+    },
+    {
+      "name": "Niraina",
+      "email": "niraina@yopmail.com",
+      "contact": "0344408507",
+      "address": "ankadifotsy",
+      "id": 7
+    },
+    {
+      "name": "dera",
+      "email": "dera@yopmail.com",
+      "contact": "123456789",
+      "address": "123456789",
+      "id": 8
+    }
+  ]
+}
